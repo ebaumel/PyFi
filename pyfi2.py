@@ -1,3 +1,5 @@
+# Demo reads the csv file from pyfi1.py and plots OHLC candlestick chart with 50 & 200 day Moving Averages and Volumes
+
 import datetime as dt
 import matplotlib.pyplot as plt
 from matplotlib import style
