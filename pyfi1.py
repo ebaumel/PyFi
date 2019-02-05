@@ -1,3 +1,5 @@
+# Demo downloads daily stock quotes from January 1, 200o til today and stores in a csv file
+
 import datetime as dt
 import matplotlib.pyplot as plt
 from matplotlib import style
